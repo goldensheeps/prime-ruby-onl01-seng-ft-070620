@@ -1,4 +1,4 @@
-
+require 'pry'
 
 def prime?(num)
   n = 2
